@@ -7,7 +7,7 @@
 本指南旨在为用户提供详尽的 **ChatGPT 中文版使用指南**，并整理国内常用的 **ChatGPT镜像网站** 与 **官方使用教程**，帮助您快速上手，不论是个人使用还是专业需求。
 
 官方网站：[https://chatgpt.com](https://chatgpt.com)  
-中文镜像入口：[https://gptcat.net/](https://gptcat.net/)  
+中文镜像入口：[https://chat.gptcat.cc/](https://chat.gptcat.cc/) 
 镜像直达：[https://snakegpt.work/chat](https://snakegpt.work/chat)
 
 ---
