@@ -1,6 +1,6 @@
 # ChatGPT 中文版：国内免费访问指南（支持GPT-4，无需翻墙）【4月持续更新】
 
-> **更新时间： 2025/06/20** 
+> **更新时间： 2025/07/01** 
 
 **全面掌握 ChatGPT 中文版，无需翻墙即可体验 GPT-4 与多功能服务！**    
 
@@ -8,7 +8,7 @@
 
 官方网站：[https://chatgpt.com](https://chatgpt.com)  
 中文镜像入口：[https://gptcat.cc/](https://gptcat.cc/)    
-镜像直达：[https://snakegpt.com.cn/chat](https://snakegpt.com.cn/chat)
+镜像直达：[https://snakegpt.vip/chat](https://snakegpt.vip/chat)
 
 ---
 
@@ -40,7 +40,7 @@
 
 | 镜像站点      | 地址                                           | 支持版本        | 免费额度 | 注册方式    | 稳定性 | 功能亮点 |
 |---------------|------------------------------------------------|----------------|----------|------------|--------|----------|
-| **蛇语 AI**   | [snakegpt.com.cn](https://snakegpt.com.cn)         | GPT-4,GPT-3.5   | 有        | 邮箱注册   | 高     | 中文支持、绘图功能 |
+| **蛇语 AI**   | [snakegpt.vip](https://snakegpt.vip)         | GPT-4,GPT-3.5   | 有        | 邮箱注册   | 高     | 中文支持、绘图功能 |
 | **GPT猫**     | [gptcat.cc](https://gptcat.cc/)               | GPT-4,GPT-o1    | 有        | 邮箱注册   | 高     | 实时语音、视频对话|
 | **熊猫 GPT**  | [ai-panda.xyz](https://gptpanda.net/login?invite_code=34137c47) | GPT-4,GPT-3.5   | 有        | 邮箱注册   | 高     | 稳定快速、API调用 |
 | **狗狗 GPT**  | [gptdog.online](https://gptdog.online)         | GPT-3.5         | 有        | 邮箱注册   | 中     | 使用Bug较多|
@@ -64,7 +64,7 @@
 ## 如何快速使用 ChatGPT 中文版
 
 ### **通过镜像网站快速体验**
-1. **选择镜像站点**：如 [snakegpt.com.cn](https://snakegpt.com.cn)。
+1. **选择镜像站点**：如 [snakegpt.vip](https://snakegpt.vip)。
 2. **注册或直接使用**：
    - 邮箱注册：输入邮箱和密码完成注册。
    - 免注册：开始聊天，输入问题即可。
